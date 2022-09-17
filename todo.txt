@@ -1,0 +1,12 @@
+export to pdf and print, add discount to receipt
+forgot password
+add update qty to cart
+
+admin
+add users tab
+reviews
+add bulk functionality for tracking order
+add bulk action widgets to dashboard:
+-tracking multiple orders
+-update status for multiple orders paid via bank
+-update stock, status for multiple products
